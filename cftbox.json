@@ -1,0 +1,12 @@
+{
+  "sites": [
+    {
+      "key": "mitaoline_cf",
+      "name": "🦋 蝴蝶影视",
+      "type": 3,
+      "api": "csp_Json",
+      "ext": "https://mt.puipui.ggff.net/api/home",
+      "jar": ""
+    }
+  ]
+}
